@@ -1,4 +1,6 @@
-# Data Cleaning Wheel
+# the userguide and examples are in the docs file
+### this is the index page
+## Data Cleaning Wheel
 > ### Load Data
 >>#### load dataframe
 >>> function loaddata(dataset,labellist,IDlist)
